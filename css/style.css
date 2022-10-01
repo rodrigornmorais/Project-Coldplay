@@ -1,0 +1,116 @@
+*,body{
+    margin: 0;
+    padding: 0;
+}
+
+/* Nav */
+
+ul.dropdown-menu{
+    background-color: #383e44;
+}
+.dropdown:hover .dropdown-menu{
+    display: block;
+    margin-top: 0;
+}
+/* Carousel */
+
+button.carousel-control-next {
+    background-color: #383e44;
+}
+
+button.carousel-control-prev {
+    background-color: #383e44;
+}
+
+/* outros */
+
+h2 {
+    margin-left: 2rem;
+    margin-bottom: 3rem;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+}
+
+p {
+    font-size: 20px;
+    padding: 10px 5px;
+}
+
+.img-thumbnail {
+    width: 100%;
+}
+
+div.container {
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}
+
+div.col-md-7 {
+    padding: 30px;
+}
+/* Discografia */
+div.col a:hover{
+    background-color: #383e44;
+    padding: 10px;
+}
+#album-pic {
+    padding: 10px;
+    width: 100%;
+}
+
+#discografia>.mais_sobre {
+    padding-left: 10px;
+}
+/* Contactos */
+div.contactos>div.col-6 {
+    padding: 40px;
+}
+
+div.col-6.form {
+    margin-top: 4em;
+}
+
+/* Mais infos */
+
+.mais_sobre {
+    margin-top: 3em;
+}
+
+.mais_sobre>h5,a {
+    display: inline-block;
+    margin: 5px;
+
+}
+
+/* Footer */
+
+.redes-sociais {
+    padding: 60px 10px;
+    text-align: center;
+}
+
+.redes-sociais a {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    padding: 10px;
+    text-align: center;
+}
+
+.redes-sociais a:hover {
+    font-size: 30px;
+}
+
+.logofooter> a img {
+    width: 250px;
+}
+
+.logofooter {
+    padding: 70px 10px;
+    text-align: center;
+}
+
+.subscreve {
+    padding: 60px 10px;
+    text-align: center;
+}
